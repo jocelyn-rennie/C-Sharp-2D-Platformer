@@ -17,6 +17,11 @@ I created this as my project for my Computer Science A level NEA. I chose to mak
 
 ## Game Runthrough
 
+**Use the link below as it is a large file:**
+https://drive.google.com/file/d/1hCIKaQVLTrMWOX0t4cE2CrAVHSkPkmtS/view?usp=drive_link
 
 ## Documentation (including testing)
+
+**Use the link below as it is a large file:**
+https://drive.google.com/file/d/1p1Sik0WOBeqa-Lwm1kBvegQbXZPv2m7j/view?usp=sharing
 
